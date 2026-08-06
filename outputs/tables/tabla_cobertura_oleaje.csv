@@ -1,0 +1,5 @@
+codigo_boya,nombre_boya,zona,tipo_red,tipo_boya,fecha_inicio,fecha_fin,registros,Hs_m_validos,Hs_m_pct_validos,Hmax_m_validos,Hmax_m_pct_validos,Tm02_s_validos,Tm02_s_pct_validos,Tp_s_validos,Tp_s_pct_validos,dir_media_oleaje_grados_validos,dir_media_oleaje_grados_pct_validos,dir_pico_oleaje_grados_validos,dir_pico_oleaje_grados_pct_validos,dispersion_pico_grados_validos,dispersion_pico_grados_pct_validos
+1103,Bilbao costera,Bilbao,Red costera,Costera,2005-01-01 00:00:00,2024-12-31 23:00:00,140991,140988,100.0,140991,100.0,140931,99.96,140988,100.0,134118,95.13,133818,94.91,133818,94.91
+1117,Gijón costera,Gijón,Red costera,Costera,2005-01-05 09:00:00,2024-12-31 23:00:00,150719,150719,100.0,150719,100.0,150714,100.0,150719,100.0,150714,100.0,150369,99.77,150369,99.77
+2136,Bilbao-Vizcaya,Bilbao-Vizcaya,Red exterior,Exterior,2005-01-01 00:00:00,2024-12-31 23:00:00,162793,162789,100.0,156856,96.35,162785,100.0,162789,100.0,160600,98.65,160600,98.65,152682,93.79
+2242,Cabo de Peñas,Asturias/Gijón,Red exterior,Exterior,2004-12-31 00:00:00,2024-12-31 23:00:00,155935,155935,100.0,154710,99.21,155933,100.0,155935,100.0,155932,100.0,155932,100.0,154708,99.21

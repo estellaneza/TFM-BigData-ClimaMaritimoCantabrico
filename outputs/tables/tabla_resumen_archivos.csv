@@ -1,0 +1,7 @@
+archivo,codigo_boya,nombre_boya,zona,tipo_red,tipo_boya,tipo_dataset,registros,columnas,fecha_inicio,fecha_fin,fechas_nulas
+REDCOST1117_WAVEGIJON.csv,1117,Gijón costera,Gijón,Red costera,Costera,WAVE,150719,15,2005-01-05 09:00:00,2024-12-31 23:00:00,0
+REDEXT2242_WAVEGIJON.csv,2242,Cabo de Peñas,Asturias/Gijón,Red exterior,Exterior,WAVE,155935,12,2004-12-31 00:00:00,2024-12-31 23:00:00,0
+REDCOST1103_WAVBILBAO.csv,1103,Bilbao costera,Bilbao,Red costera,Costera,WAVE,140991,15,2005-01-01 00:00:00,2024-12-31 23:00:00,0
+REDEXT2136_WAVEBILBAO.csv,2136,Bilbao-Vizcaya,Bilbao-Vizcaya,Red exterior,Exterior,WAVE,162793,12,2005-01-01 00:00:00,2024-12-31 23:00:00,0
+REDEXT2242_ALLGIJON.csv,2242,Cabo de Peñas,Asturias/Gijón,Red exterior,Exterior,ALL,156065,22,2005-01-01 00:00:00,2024-12-31 23:00:00,0
+REDEXT2136_ALLBILBAO.csv,2136,Bilbao-Vizcaya,Bilbao-Vizcaya,Red exterior,Exterior,ALL,164084,22,2005-01-01 00:00:00,2024-12-30 23:00:00,0
