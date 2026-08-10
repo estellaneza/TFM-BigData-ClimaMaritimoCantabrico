@@ -1,0 +1,5 @@
+﻿codigo_boya,nombre_boya,tipo_boya,registros,Hs_media_m,Hs_mediana_m,Hs_p90_m,Hs_p95_m,Hs_p99_m,Hs_maxima_m,Hmax_media_m,Hmax_maxima_m,Tm02_media_s,Tp_media_s,Tp_maximo_s
+1103,Bilbao costera,Costera,140991,1.43,1.2,2.57,3.11,4.35,8.37,2.16,13.72,5.48,9.05,28.6
+1117,Gijón costera,Costera,150719,1.63,1.42,2.79,3.34,4.62,8.98,2.46,13.99,5.86,9.17,25.0
+2136,Bilbao-Vizcaya,Exterior,162793,1.94,1.59,3.62,4.44,6.34,13.72,2.91,22.63,6.06,9.63,22.27
+2242,Cabo de Peñas,Exterior,155935,2.03,1.72,3.6,4.31,6.1,12.18,3.1,23.28,6.09,9.48,19.92

@@ -1,0 +1,5 @@
+﻿codigo_boya,nombre_boya,tipo_boya,observaciones_validas,media,mediana,desviacion_tipica,minimo,percentil_25,percentil_75,percentil_90,percentil_95,percentil_99,maximo
+1103,Bilbao costera,Costera,140988,1.43,1.2,0.84,0.0,0.83,1.8,2.57,3.11,4.35,8.37
+1117,Gijón costera,Costera,150719,1.63,1.42,0.88,0.01,1.01,2.03,2.79,3.34,4.62,8.98
+2136,Bilbao-Vizcaya,Exterior,162789,1.94,1.59,1.24,0.01,1.08,2.44,3.62,4.44,6.34,13.72
+2242,Cabo de Peñas,Exterior,155935,2.03,1.72,1.17,0.01,1.21,2.53,3.6,4.31,6.1,12.18

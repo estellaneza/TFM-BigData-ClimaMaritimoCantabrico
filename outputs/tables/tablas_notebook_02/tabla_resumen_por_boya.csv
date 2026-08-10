@@ -1,0 +1,5 @@
+﻿codigo_boya,nombre_boya,zona,tipo_red,tipo_boya,registros,fecha_inicio,fecha_fin,duracion_dias,duracion_anios,porcentaje_dataset
+1103,Bilbao costera,Bilbao,Red costera,Costera,140991,2005-01-01 00:00:00,2024-12-31 23:00:00,7304,20.0,23.1
+1117,Gijón costera,Gijón,Red costera,Costera,150719,2005-01-05 09:00:00,2024-12-31 23:00:00,7300,19.99,24.69
+2136,Bilbao-Vizcaya,Bilbao-Vizcaya,Red exterior,Exterior,162793,2005-01-01 00:00:00,2024-12-31 23:00:00,7304,20.0,26.67
+2242,Cabo de Peñas,Asturias/Gijón,Red exterior,Exterior,155935,2004-12-31 00:00:00,2024-12-31 23:00:00,7305,20.0,25.54
