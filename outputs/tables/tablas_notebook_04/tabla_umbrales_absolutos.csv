@@ -1,0 +1,4 @@
+﻿nivel,umbral_hs_m,descripcion
+Moderado,2.0,Hs igual o superior a 2 metros
+Adverso exploratorio,3.0,Hs igual o superior a 3 metros
+Severo exploratorio,5.0,Hs igual o superior a 5 metros

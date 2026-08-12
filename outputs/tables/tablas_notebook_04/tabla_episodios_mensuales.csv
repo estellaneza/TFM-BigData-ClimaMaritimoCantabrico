@@ -1,0 +1,139 @@
+﻿codigo_boya,nombre_boya,umbral,mes_inicio,nombre_mes_inicio,numero_episodios,horas_totales_episodios,duracion_maxima_horas
+1103,Bilbao costera,Hs ≥ 2 m,1,Ene,260,3727,224
+1103,Bilbao costera,Hs ≥ 2 m,2,Feb,236,3692,169
+1103,Bilbao costera,Hs ≥ 2 m,3,Mar,289,3253,131
+1103,Bilbao costera,Hs ≥ 2 m,4,Abr,212,1364,56
+1103,Bilbao costera,Hs ≥ 2 m,5,May,138,1025,82
+1103,Bilbao costera,Hs ≥ 2 m,6,Jun,88,450,33
+1103,Bilbao costera,Hs ≥ 2 m,7,Jul,82,382,39
+1103,Bilbao costera,Hs ≥ 2 m,8,Ago,131,715,44
+1103,Bilbao costera,Hs ≥ 2 m,9,Sep,170,1261,96
+1103,Bilbao costera,Hs ≥ 2 m,10,Oct,194,2048,143
+1103,Bilbao costera,Hs ≥ 2 m,11,Nov,413,5146,191
+1103,Bilbao costera,Hs ≥ 2 m,12,Dic,291,4650,213
+1103,Bilbao costera,Hs ≥ 3 m,1,Ene,134,1478,75
+1103,Bilbao costera,Hs ≥ 3 m,2,Feb,166,1185,81
+1103,Bilbao costera,Hs ≥ 3 m,3,Mar,125,837,74
+1103,Bilbao costera,Hs ≥ 3 m,4,Abr,52,257,36
+1103,Bilbao costera,Hs ≥ 3 m,5,May,36,162,21
+1103,Bilbao costera,Hs ≥ 3 m,6,Jun,14,37,10
+1103,Bilbao costera,Hs ≥ 3 m,7,Jul,8,19,10
+1103,Bilbao costera,Hs ≥ 3 m,8,Ago,12,73,22
+1103,Bilbao costera,Hs ≥ 3 m,9,Sep,30,134,36
+1103,Bilbao costera,Hs ≥ 3 m,10,Oct,88,441,33
+1103,Bilbao costera,Hs ≥ 3 m,11,Nov,218,1797,99
+1103,Bilbao costera,Hs ≥ 3 m,12,Dic,180,1666,100
+1103,Bilbao costera,Hs ≥ 5 m,1,Ene,24,79,19
+1103,Bilbao costera,Hs ≥ 5 m,2,Feb,16,68,29
+1103,Bilbao costera,Hs ≥ 5 m,3,Mar,12,53,18
+1103,Bilbao costera,Hs ≥ 5 m,4,Abr,2,10,5
+1103,Bilbao costera,Hs ≥ 5 m,5,May,3,4,2
+1103,Bilbao costera,Hs ≥ 5 m,9,Sep,2,5,4
+1103,Bilbao costera,Hs ≥ 5 m,10,Oct,3,3,1
+1103,Bilbao costera,Hs ≥ 5 m,11,Nov,21,97,23
+1103,Bilbao costera,Hs ≥ 5 m,12,Dic,39,200,32
+1117,Gijón costera,Hs ≥ 2 m,1,Ene,383,5233,266
+1117,Gijón costera,Hs ≥ 2 m,2,Feb,291,4946,222
+1117,Gijón costera,Hs ≥ 2 m,3,Mar,324,4386,153
+1117,Gijón costera,Hs ≥ 2 m,4,Abr,276,2790,90
+1117,Gijón costera,Hs ≥ 2 m,5,May,210,1599,63
+1117,Gijón costera,Hs ≥ 2 m,6,Jun,128,854,61
+1117,Gijón costera,Hs ≥ 2 m,7,Jul,99,646,47
+1117,Gijón costera,Hs ≥ 2 m,8,Ago,161,969,50
+1117,Gijón costera,Hs ≥ 2 m,9,Sep,280,2206,72
+1117,Gijón costera,Hs ≥ 2 m,10,Oct,338,3257,193
+1117,Gijón costera,Hs ≥ 2 m,11,Nov,361,6367,346
+1117,Gijón costera,Hs ≥ 2 m,12,Dic,350,6117,229
+1117,Gijón costera,Hs ≥ 3 m,1,Ene,216,1935,121
+1117,Gijón costera,Hs ≥ 3 m,2,Feb,223,1863,129
+1117,Gijón costera,Hs ≥ 3 m,3,Mar,213,1324,55
+1117,Gijón costera,Hs ≥ 3 m,4,Abr,97,435,43
+1117,Gijón costera,Hs ≥ 3 m,5,May,54,236,27
+1117,Gijón costera,Hs ≥ 3 m,6,Jun,10,80,20
+1117,Gijón costera,Hs ≥ 3 m,7,Jul,19,37,7
+1117,Gijón costera,Hs ≥ 3 m,8,Ago,18,72,17
+1117,Gijón costera,Hs ≥ 3 m,9,Sep,72,279,39
+1117,Gijón costera,Hs ≥ 3 m,10,Oct,113,825,56
+1117,Gijón costera,Hs ≥ 3 m,11,Nov,263,2321,95
+1117,Gijón costera,Hs ≥ 3 m,12,Dic,263,2287,98
+1117,Gijón costera,Hs ≥ 5 m,1,Ene,46,201,23
+1117,Gijón costera,Hs ≥ 5 m,2,Feb,37,117,23
+1117,Gijón costera,Hs ≥ 5 m,3,Mar,14,67,19
+1117,Gijón costera,Hs ≥ 5 m,4,Abr,5,17,9
+1117,Gijón costera,Hs ≥ 5 m,5,May,2,5,3
+1117,Gijón costera,Hs ≥ 5 m,8,Ago,1,2,2
+1117,Gijón costera,Hs ≥ 5 m,9,Sep,1,1,1
+1117,Gijón costera,Hs ≥ 5 m,10,Oct,11,34,10
+1117,Gijón costera,Hs ≥ 5 m,11,Nov,50,205,35
+1117,Gijón costera,Hs ≥ 5 m,12,Dic,65,254,28
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,1,Ene,275,8051,455
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,2,Feb,246,7430,384
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,3,Mar,295,6089,276
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,4,Abr,256,3643,126
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,5,May,225,2616,110
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,6,Jun,188,1808,80
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,7,Jul,175,1555,93
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,8,Ago,226,2039,85
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,9,Sep,312,3515,118
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,10,Oct,371,5100,189
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,11,Nov,419,8145,278
+2136,Bilbao-Vizcaya,Hs ≥ 2 m,12,Dic,264,8278,388
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,1,Ene,299,4696,223
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,2,Feb,246,4574,189
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,3,Mar,220,2949,130
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,4,Abr,125,1274,67
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,5,May,93,761,69
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,6,Jun,57,326,70
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,7,Jul,32,260,37
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,8,Ago,53,409,43
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,9,Sep,125,1036,78
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,10,Oct,225,1775,102
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,11,Nov,335,3845,204
+2136,Bilbao-Vizcaya,Hs ≥ 3 m,12,Dic,264,4387,271
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,1,Ene,156,1285,93
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,2,Feb,140,1114,75
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,3,Mar,101,620,40
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,4,Abr,21,120,22
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,5,May,10,52,13
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,6,Jun,6,21,9
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,8,Ago,6,23,8
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,9,Sep,13,55,24
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,10,Oct,35,229,32
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,11,Nov,99,619,66
+2136,Bilbao-Vizcaya,Hs ≥ 5 m,12,Dic,116,986,72
+2242,Cabo de Peñas,Hs ≥ 2 m,1,Ene,281,7607,917
+2242,Cabo de Peñas,Hs ≥ 2 m,2,Feb,229,7717,485
+2242,Cabo de Peñas,Hs ≥ 2 m,3,Mar,272,6399,236
+2242,Cabo de Peñas,Hs ≥ 2 m,4,Abr,341,4932,159
+2242,Cabo de Peñas,Hs ≥ 2 m,5,May,277,3594,131
+2242,Cabo de Peñas,Hs ≥ 2 m,6,Jun,226,2061,81
+2242,Cabo de Peñas,Hs ≥ 2 m,7,Jul,208,1805,88
+2242,Cabo de Peñas,Hs ≥ 2 m,8,Ago,252,2114,64
+2242,Cabo de Peñas,Hs ≥ 2 m,9,Sep,323,3542,178
+2242,Cabo de Peñas,Hs ≥ 2 m,10,Oct,299,5369,281
+2242,Cabo de Peñas,Hs ≥ 2 m,11,Nov,274,7999,367
+2242,Cabo de Peñas,Hs ≥ 2 m,12,Dic,266,8858,651
+2242,Cabo de Peñas,Hs ≥ 3 m,1,Ene,267,4134,194
+2242,Cabo de Peñas,Hs ≥ 3 m,2,Feb,235,4631,216
+2242,Cabo de Peñas,Hs ≥ 3 m,3,Mar,253,2991,104
+2242,Cabo de Peñas,Hs ≥ 3 m,4,Abr,177,1479,87
+2242,Cabo de Peñas,Hs ≥ 3 m,5,May,112,862,50
+2242,Cabo de Peñas,Hs ≥ 3 m,6,Jun,67,333,66
+2242,Cabo de Peñas,Hs ≥ 3 m,7,Jul,39,245,26
+2242,Cabo de Peñas,Hs ≥ 3 m,8,Ago,66,373,33
+2242,Cabo de Peñas,Hs ≥ 3 m,9,Sep,111,840,43
+2242,Cabo de Peñas,Hs ≥ 3 m,10,Oct,210,1627,99
+2242,Cabo de Peñas,Hs ≥ 3 m,11,Nov,314,4274,182
+2242,Cabo de Peñas,Hs ≥ 3 m,12,Dic,293,4671,277
+2242,Cabo de Peñas,Hs ≥ 5 m,1,Ene,136,996,86
+2242,Cabo de Peñas,Hs ≥ 5 m,2,Feb,145,1064,76
+2242,Cabo de Peñas,Hs ≥ 5 m,3,Mar,71,387,45
+2242,Cabo de Peñas,Hs ≥ 5 m,4,Abr,17,73,27
+2242,Cabo de Peñas,Hs ≥ 5 m,5,May,14,36,9
+2242,Cabo de Peñas,Hs ≥ 5 m,6,Jun,2,7,5
+2242,Cabo de Peñas,Hs ≥ 5 m,7,Jul,1,4,4
+2242,Cabo de Peñas,Hs ≥ 5 m,8,Ago,2,8,5
+2242,Cabo de Peñas,Hs ≥ 5 m,9,Sep,6,33,19
+2242,Cabo de Peñas,Hs ≥ 5 m,10,Oct,28,123,25
+2242,Cabo de Peñas,Hs ≥ 5 m,11,Nov,91,546,54
+2242,Cabo de Peñas,Hs ≥ 5 m,12,Dic,112,879,85

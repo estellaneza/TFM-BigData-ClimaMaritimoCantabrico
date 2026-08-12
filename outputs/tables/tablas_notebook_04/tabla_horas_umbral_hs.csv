@@ -1,0 +1,5 @@
+﻿codigo_boya,nombre_boya,tipo_boya,registros_validos,horas_Hs_ge_2m,horas_Hs_ge_3m,horas_Hs_ge_5m,pct_Hs_ge_2m,pct_Hs_ge_3m,pct_Hs_ge_5m
+1103,Bilbao costera,Costera,140988,27713,8086,519,19.66,5.74,0.37
+1117,Gijón costera,Costera,150719,39370,11694,903,26.12,7.76,0.6
+2136,Bilbao-Vizcaya,Exterior,162789,58269,26292,5124,35.79,16.15,3.15
+2242,Cabo de Peñas,Exterior,155935,61997,26460,4156,39.76,16.97,2.67

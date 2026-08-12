@@ -1,0 +1,5 @@
+﻿codigo_boya,nombre_boya,tipo_boya,umbral_hs_m,numero_episodios,duracion_media_horas,duracion_maxima_horas,Hs_maxima_m
+1103,Bilbao costera,Costera,3.11,975,7.24,99,8.37
+1117,Gijón costera,Costera,3.34,1156,6.58,111,8.98
+2136,Bilbao-Vizcaya,Exterior,4.44,1023,7.99,101,13.72
+2242,Cabo de Peñas,Exterior,4.31,1031,7.57,138,12.18
