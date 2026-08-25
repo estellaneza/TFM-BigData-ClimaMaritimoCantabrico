@@ -1,0 +1,20 @@
+﻿codigo_boya,nombre_boya,tipo_boya,sector_direccion_media,observaciones_Hs_ge_3m,Hs_media_m,Hs_maxima_m,total_Hs_ge_3m_boya,frecuencia_Hs_ge_3m_pct
+1103.0,Bilbao costera,Costera,N,731,3.83,8.37,7719,9.47
+1103.0,Bilbao costera,Costera,NO,6988,3.73,8.19,7719,90.53
+1117.0,Gijón costera,Costera,N,3448,4.01,8.98,11694,29.49
+1117.0,Gijón costera,Costera,NE,314,3.35,5.1,11694,2.69
+1117.0,Gijón costera,Costera,E,18,3.52,3.99,11694,0.15
+1117.0,Gijón costera,Costera,NO,7914,3.69,7.99,11694,67.68
+2136.0,Bilbao-Vizcaya,Exterior,N,427,3.59,7.47,25848,1.65
+2136.0,Bilbao-Vizcaya,Exterior,NE,21,3.69,5.28,25848,0.08
+2136.0,Bilbao-Vizcaya,Exterior,E,3,3.26,3.27,25848,0.01
+2136.0,Bilbao-Vizcaya,Exterior,SE,2,5.4,7.16,25848,0.01
+2136.0,Bilbao-Vizcaya,Exterior,S,2,5.82,5.83,25848,0.01
+2136.0,Bilbao-Vizcaya,Exterior,SO,10,4.03,7.88,25848,0.04
+2136.0,Bilbao-Vizcaya,Exterior,O,4743,4.18,13.72,25848,18.35
+2136.0,Bilbao-Vizcaya,Exterior,NO,20640,4.24,12.1,25848,79.85
+2242.0,Cabo de Peñas,Exterior,N,767,3.79,11.28,12870,5.96
+2242.0,Cabo de Peñas,Exterior,NE,318,3.53,5.06,12870,2.47
+2242.0,Cabo de Peñas,Exterior,E,43,3.5,4.87,12870,0.33
+2242.0,Cabo de Peñas,Exterior,O,503,3.77,7.22,12870,3.91
+2242.0,Cabo de Peñas,Exterior,NO,11239,4.16,12.18,12870,87.33

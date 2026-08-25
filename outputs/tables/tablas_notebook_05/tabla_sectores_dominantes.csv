@@ -1,0 +1,5 @@
+﻿codigo_boya,nombre_boya,tipo_boya,sector_mas_frecuente,observaciones_sector_frecuente,frecuencia_sector_pct,sector_mayor_Hs_media,mayor_Hs_media_m,sector_mayor_P95,mayor_P95_m
+1103.0,Bilbao costera,Costera,NO,101864,75.95,NO,1.53,NO,3.25
+1117.0,Gijón costera,Costera,NO,86726,57.54,NO,1.73,NO,3.42
+2136.0,Bilbao-Vizcaya,Exterior,NO,113946,70.95,O,2.25,O,4.8
+2242.0,Cabo de Peñas,Exterior,NO,51791,66.18,NO,2.21,NO,4.66

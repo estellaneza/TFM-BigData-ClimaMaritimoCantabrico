@@ -1,0 +1,5 @@
+﻿codigo_boya,nombre_boya,tipo_boya,registros_totales,direccion_media_valida,direccion_pico_valida,pct_direccion_media_valida,pct_direccion_pico_valida
+1103.0,Bilbao costera,Costera,140991,134118,133818,95.13,94.91
+1117.0,Gijón costera,Costera,150719,150714,150369,100.0,99.77
+2136.0,Bilbao-Vizcaya,Exterior,162793,160600,160600,98.65,98.65
+2242.0,Cabo de Peñas,Exterior,78256,78253,78253,100.0,100.0

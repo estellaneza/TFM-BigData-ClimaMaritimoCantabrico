@@ -1,0 +1,33 @@
+﻿codigo_boya,nombre_boya,tipo_boya,sector_direccion_media,observaciones,Hs_media_m,Hs_mediana_m,Hs_p90_m,Hs_p95_m,Hs_maxima_m
+1103.0,Bilbao costera,Costera,N,28109,1.14,0.95,1.96,2.45,8.37
+1103.0,Bilbao costera,Costera,NE,2375,0.86,0.81,1.31,1.53,2.29
+1103.0,Bilbao costera,Costera,E,172,0.57,0.58,0.75,0.81,0.95
+1103.0,Bilbao costera,Costera,SE,161,0.55,0.57,0.77,0.81,0.98
+1103.0,Bilbao costera,Costera,S,237,0.6,0.58,0.83,0.96,1.18
+1103.0,Bilbao costera,Costera,SO,354,0.68,0.67,0.94,1.06,1.52
+1103.0,Bilbao costera,Costera,O,846,0.8,0.77,1.18,1.37,2.21
+1103.0,Bilbao costera,Costera,NO,101864,1.53,1.32,2.71,3.25,8.19
+1117.0,Gijón costera,Costera,N,46799,1.53,1.29,2.67,3.4,8.98
+1117.0,Gijón costera,Costera,NE,15952,1.38,1.28,2.19,2.52,5.1
+1117.0,Gijón costera,Costera,E,1164,1.46,1.37,2.13,2.46,3.99
+1117.0,Gijón costera,Costera,SE,6,0.74,0.72,0.8,0.8,0.81
+1117.0,Gijón costera,Costera,S,6,0.76,0.72,0.98,0.99,1.0
+1117.0,Gijón costera,Costera,SO,9,0.96,1.0,1.2,1.21,1.21
+1117.0,Gijón costera,Costera,O,52,0.99,0.95,1.63,1.83,2.7
+1117.0,Gijón costera,Costera,NO,86726,1.73,1.54,2.93,3.42,7.99
+2136.0,Bilbao-Vizcaya,Exterior,N,18006,1.27,1.11,2.09,2.53,7.47
+2136.0,Bilbao-Vizcaya,Exterior,NE,4145,1.17,1.08,1.8,2.03,5.28
+2136.0,Bilbao-Vizcaya,Exterior,E,1121,1.09,1.01,1.64,1.92,3.27
+2136.0,Bilbao-Vizcaya,Exterior,SE,545,1.02,1.01,1.39,1.49,7.16
+2136.0,Bilbao-Vizcaya,Exterior,S,708,1.11,1.03,1.58,1.83,5.83
+2136.0,Bilbao-Vizcaya,Exterior,SO,1263,1.24,1.18,1.84,2.08,7.88
+2136.0,Bilbao-Vizcaya,Exterior,O,20862,2.25,1.94,4.04,4.8,13.72
+2136.0,Bilbao-Vizcaya,Exterior,NO,113946,2.04,1.69,3.77,4.6,12.1
+2242.0,Cabo de Peñas,Exterior,N,14292,1.56,1.37,2.57,3.04,11.28
+2242.0,Cabo de Peñas,Exterior,NE,7542,1.59,1.45,2.46,2.86,5.06
+2242.0,Cabo de Peñas,Exterior,E,1280,1.59,1.48,2.31,2.58,4.87
+2242.0,Cabo de Peñas,Exterior,SE,1,0.69,0.69,0.69,0.69,0.69
+2242.0,Cabo de Peñas,Exterior,S,2,0.86,0.86,0.9,0.9,0.91
+2242.0,Cabo de Peñas,Exterior,SO,5,1.48,1.38,2.03,2.13,2.23
+2242.0,Cabo de Peñas,Exterior,O,3340,2.05,1.86,3.31,3.85,7.22
+2242.0,Cabo de Peñas,Exterior,NO,51791,2.21,1.89,3.9,4.66,12.18
