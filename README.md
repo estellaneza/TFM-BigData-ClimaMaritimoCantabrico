@@ -32,7 +32,6 @@ data/processed/    Dataset procesado
 notebooks/         Notebooks de análisis
 outputs/figures/   Figuras generadas
 outputs/tables/    Tablas generadas
-outputs/models/    Resultados de modelización
 docs/              Documentación del proyecto
 ```
 
