@@ -1,5 +1,6 @@
 # TFM Big Data: clima marítimo y gestión portuaria cantábrica
 
+<<<<<<< HEAD
 Repositorio asociado al Trabajo Fin de Máster centrado en el análisis de series temporales de oleaje y su aplicación como apoyo a la planificación portuaria en los entornos de Gijón y Bilbao.
 
 El proyecto integra información oceanográfica procedente de boyas de Puertos del Estado con datos mensuales de actividad portuaria. El análisis estudia la exposición al oleaje, su relación exploratoria con los principales tráficos y su asociación con las restricciones operativas registradas en ambos puertos.
@@ -115,3 +116,45 @@ La organización del repositorio mantiene la trazabilidad entre los datos origin
 Las observaciones de las boyas representan las condiciones registradas en la ubicación de cada sensor y no reproducen directamente la agitación existente dentro de las dársenas portuarias.
 
 Asimismo, el análisis de los tráficos tiene carácter exploratorio: las variaciones de actividad portuaria pueden estar influidas por factores económicos, comerciales, industriales y logísticos no incluidos en el modelo.
+=======
+Repositorio asociado al Trabajo Fin de Máster sobre el análisis de series temporales de oleaje y su aplicación como apoyo a la planificación portuaria en los entornos de Gijón y Bilbao.
+
+## Objetivo
+
+Transformar datos históricos horarios de boyas de Puertos del Estado en indicadores temporales, direccionales y predictivos que permitan caracterizar la exposición al oleaje.
+
+## Datos
+
+* Fuente: Puertos del Estado.
+* Periodo analizado: 2005–2024.
+* Registros: 610.438 observaciones horarias.
+* Boyas: Bilbao costera, Bilbao-Vizcaya, Gijón costera y Cabo de Peñas.
+* Variables principales: altura significativa de ola (`Hs_m`), altura máxima, periodo medio, periodo de pico y dirección de oleaje.
+
+## Notebooks
+
+1. `01_carga_limpieza_datos.ipynb`: carga, limpieza y creación del dataset principal.
+2. `02_analisis_exploratorio.ipynb`: estadísticos descriptivos y distribuciones.
+3. `03_indicadores_temporales.ipynb`: análisis mensual, estacional y anual.
+4. `04_episodios_potencialmente_adversos.ipynb`: episodios de oleaje elevado mediante umbrales exploratorios.
+5. `05_analisis_direccional.ipynb`: frecuencia y relación entre dirección e intensidad.
+6. `06_prediccion_estadistica_Hs_2027.ipynb`: proyección estadística mensual de Hs para 2027.
+7. `07_priorizacion_exposicion_portuaria_2027.ipynb`: priorización mensual de la exposición marítima prevista.
+
+## Estructura
+
+```text
+data/raw/          Datos originales
+data/processed/    Dataset procesado
+notebooks/         Notebooks de análisis
+outputs/figures/   Figuras generadas
+outputs/tables/    Tablas generadas
+docs/              Documentación del proyecto
+```
+
+## Reproducibilidad
+
+Los notebooks deben ejecutarse en orden numérico. Cada notebook utiliza los datos procesados generados en las etapas anteriores y guarda automáticamente sus figuras y tablas en `outputs/`.
+
+
+>>>>>>> b84ab41a95d1ba3a51fdeaf71f0b744c97104551
