@@ -1,5 +1,0 @@
-﻿codigo_boya,nombre_boya,zona,tipo_boya,fecha_inicio,fecha_fin,registros,Hs_validas,cobertura_temporal_pct,Hs_validas_pct_sobre_registros
-1103,Bilbao costera,Bilbao,Costera,2005-01-01 00:00:00,2024-12-31 23:00:00,140991,140988,80.42,100.0
-1117,Gijón costera,Gijón,Costera,2005-01-05 09:00:00,2024-12-31 23:00:00,150719,150719,85.97,100.0
-2136,Bilbao-Vizcaya,Bilbao-Vizcaya,Exterior,2005-01-01 00:00:00,2024-12-31 23:00:00,162793,162789,92.85,100.0
-2242,Cabo de Peñas,Asturias/Gijón,Exterior,2005-01-01 00:00:00,2024-12-31 23:00:00,155911,155911,88.93,100.0
